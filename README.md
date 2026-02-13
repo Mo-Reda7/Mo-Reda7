@@ -173,7 +173,7 @@ Passionate about Machine Learning, Data Analysis & Building Intelligent Systems.
 
 ## 💬 Connect With Me
 
-- 🟡 Kaggle: https://kaggle.com/YOUR_USERNAME  
+- 🟡 Kaggle: https://kaggle.com/mohamedreda72  
 - 🔵 LinkedIn: https://linkedin.com/in/<div align="center" width="50">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/><br>
