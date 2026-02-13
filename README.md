@@ -86,7 +86,7 @@ Passionate about Machine Learning, Data Analysis & Building Intelligent Systems.
 ## 💬 Connect With Me
 
 - 🟡 Kaggle: https://kaggle.com/mohamedreda72  
-- 🔵 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/mohamed-reda7  
+- 🔵 LinkedIn: https://linkedin.com/in/mohamed-reda7  
 
 ---
 
