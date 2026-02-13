@@ -7,7 +7,6 @@
 
 Passionate about Machine Learning, Data Analysis & Building Intelligent Systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue)
 
 </div>
 
